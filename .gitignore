@@ -13,3 +13,7 @@ install
 *.so
 .DS_Store
 .vscode/*
+aes_cipher_top
+ASAP7
+openRoad_eval_script
+ICCAD25_PorbC.zip

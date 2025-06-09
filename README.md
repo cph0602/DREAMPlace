@@ -1,5 +1,11 @@
 # DREAMPlace
 
+## CAD Contest 2025 Specifics
+### Build 
+- Unzip ICCAD25_PorbC.zip under root directory.
+
+---
+
 Deep learning toolkit-enabled VLSI placement.
 With the analogy between nonlinear VLSI placement and deep learning training problem, this tool is developed with deep learning toolkit for flexibility and efficiency.
 The tool runs on both CPU and GPU.
