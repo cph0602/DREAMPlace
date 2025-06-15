@@ -2,8 +2,9 @@
 
 ## CAD Contest 2025 Specifics
 ### Build 
-- Unzip ICCAD25_PorbC.zip under root directory.
-
+- Build with the same instructions from DREAMPlace
+- Unzip ICCAD25_PorbC.zip under <installation directory>/iccad2025/aes_cipher_top/
+- Under <installation directory>, run: python dreamplace/Placer.py test/iccad2025/aes_cipher_top.json
 ---
 
 Deep learning toolkit-enabled VLSI placement.
